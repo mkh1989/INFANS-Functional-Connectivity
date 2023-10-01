@@ -7,7 +7,7 @@ The results of this study were are at:
 https://pubmed.ncbi.nlm.nih.gov/35431189/
 
 # Dependencies
-- [Brain Connectivity Toolbox][ms-identifier]
+- [Brain Connectivity Toolbox][bct-identifier]
 - [EEGLAB][eeglab-identifier]
 
 [bct-identifier]: https://sites.google.com/site/bctnet/
