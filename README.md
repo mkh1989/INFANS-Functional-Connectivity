@@ -5,3 +5,10 @@ This work is supported by the European Union under the H2020-EU.1.3.1 Program (E
 
 The results of this study were are at:
 https://pubmed.ncbi.nlm.nih.gov/35431189/
+
+# Dependencies
+- [Brain Connectivity Toolbox][ms-identifier]
+- [EEGLAB][eeglab-identifier]
+
+[bct-identifier]: https://sites.google.com/site/bctnet/
+[eeglab-identifier]: https://github.com/sccn/eeglab
